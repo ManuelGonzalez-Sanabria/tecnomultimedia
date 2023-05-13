@@ -1,3 +1,4 @@
+//toda la parte de arriba y comentada del texto es la primera idea, posteriormente la fui desarrollando en la practica y fue cambiando. Ante todo garcias.
 /*texto1(pantalla 1); La lima existe desde prácticamente la era Preindustrial; es una herramienta manual sumamente sencilla pero imprescindible en la caja de herramientas de casi cualquier persona. Su principal uso es el de desbaste en piezas metálicas, de madera y en menor medida, plásticas. Es una herramienta ubicua, con decenas de modelos distintos.
  //En esta presentación vamos a ver los distintos de lima, y las diferencias entre una lima una escofina y una rasqueta.
  //texto1; letras que se agranden:
