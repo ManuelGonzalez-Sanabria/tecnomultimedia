@@ -65,3 +65,4 @@ class Manzana extends Juego {
     this.y2 += this.velManY;
   }
 }
+//Hecho por Manuel González Sanabria legajo 94778/2 tecnología multimedial 1 comisión 5 lic. diseño multimedial año 2023
