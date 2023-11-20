@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    padding: 100px;
+    background-color: blue;
+}
+div{
+    width: 900px;
+    max-width: 95%;
+    margin: 0 auto;
+}
+.img-max{
+    min-width: 200px;
+    height: auto;
+    width: 50%;
+}
+.img_max2{
+    min-width: 300px;
+    height: auto;
+    width: 50%; 
+}
+header{
+    background-color: black;
+}
+nav{
+    text-align: left;
+}
+article{
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+footer{
+    background-color: black;
+}
+a{
+    color: aliceblue; 
+}
