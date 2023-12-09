@@ -9,10 +9,9 @@ class Boton {
       this.direccion = direccion
       this.texto = texto
   }
-  actualizar() {
-  }
   dibujar2() {
     push()
+     textAlign(LEFT);
       fill(255)
       rect(this.x, this.y, this.tamX, this.tamY)
       fill(0)
@@ -24,7 +23,6 @@ class Boton {
 
   mouseClicked() {
     if (mouseX > this.x && mouseX < this.x + this.tamX  &&  mouseY > this.y && mouseY < this.y + this.tamY) {
-
       aventura.cambiarPantalla(this.direccion)
     }
   }

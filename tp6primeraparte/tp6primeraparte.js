@@ -1,3 +1,4 @@
+//https://youtu.be/Svhj7VlAlpQ
 let imagenes = []
   function preload() {
   for (let i = 0; i <= 14; i++) {
@@ -12,15 +13,15 @@ let aventura
     miJuego = new juego();
   Manzana = new manzana();
   pGreg = new personajeGreg();
-  textSize(12)
+  textSize(15)
 }
 
 
 function draw() {
   aventura.dibujar()
-  aventura.actualizar()
 }
 
 function mouseClicked() {
   aventura.mouseClick()
 }
+//hecho por Manuel González Sanabria, estudiante de Lic. Diseño Multimedial, legajo 94778/2. UNLP 2023. (comision 5 tencnología multimedial 1).

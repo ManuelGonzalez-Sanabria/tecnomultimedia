@@ -5,10 +5,10 @@ class personajeGreg {
     this.ancho = 25;
     this.alto = 15;
   }
-  dibujar(){
+  dibujar() {
     push();
     fill(this.colorGreg)
-  ellipse(this.posXPG, mouseY, this.ancho, this.alto);
-  pop();
+      ellipse(this.posXPG, mouseY, this.ancho, this.alto);
+    pop();
   }
 }
