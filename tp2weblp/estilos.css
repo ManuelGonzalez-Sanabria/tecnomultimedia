@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Ysabeau:wght@300&display=swap');
+body{
+    text-align: center; 
+    padding: 50px;
+    background-color:  hsl(29, 60%, 21%);
+    background-size: auto auto;
+    background-image: url(beetle-insect-cut-out-by-Vexels.png);
+    background-image: url(beetle-insect-cut-out-by-Vexels2.png);
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ div{
+     width: 900px;
+     max-width: 95%;
+     margin: 0 auto;
+ }
+ .img-max{
+    max-width: 200px;
+     height: auto;
+     width: 50%;
+ }
+ .img-max2{
+     max-width: 500px;
+     height: auto;
+     width: 50%;
+ }
+ header{
+     background-color: black;
+ }
+ nav{
+     text-align: left;
+ }
+ article{
+     background-color: black;
+ }
+ h1{
+     color:beige;
+     font-family: 'Ysabeau', sans-serif;
+ }
+ p{
+     color:beige;
+     font-family: 'Lora', serif;
+ }
+ footer{
+     background-color: black;
+ }
+ a{
+     color:beige;
+ }
+ button{
+    font-family: 'Lora', serif;
+ }
